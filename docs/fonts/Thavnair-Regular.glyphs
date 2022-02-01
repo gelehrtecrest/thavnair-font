@@ -1,9 +1,6 @@
 {
 .appVersion = "3108";
 .formatVersion = 3;
-DisplayStrings = (
-O
-);
 date = "2022-01-30 04:32:21 +0000";
 familyName = Thavnair;
 fontMaster = (
@@ -802,7 +799,7 @@ unicode = 78;
 },
 {
 glyphname = O;
-lastChange = "2022-02-01 17:51:29 +0000";
+lastChange = "2022-02-01 18:07:56 +0000";
 layers = (
 {
 layerId = m01;
@@ -886,7 +883,7 @@ nodes = (
 );
 }
 );
-width = 624;
+width = 599;
 }
 );
 unicode = 79;
